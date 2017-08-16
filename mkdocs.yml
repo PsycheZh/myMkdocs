@@ -1,0 +1,7 @@
+site_name: 我的 Docs
+
+pages:
+- [index.md, Home]
+- [about.md, About]
+
+theme: readthedocs
